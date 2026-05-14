@@ -7,3 +7,6 @@
 [submodule "toast-database"]
 	path = toast-database
 	url = https://github.com/abel-tefera/toast-database.git
+[submodule "toast-e2e"]
+	path = toast-e2e
+	url = https://github.com/abel-tefera/toast-e2e.git
